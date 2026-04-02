@@ -14,5 +14,5 @@
 | **Шаги** | 1. Перейти на сайт по ссылке - https://www.saucedemo.com/<br>2. Ввести данные пользователя, в поле Username: problem_user, в поле Password: secret_sauce<br>3. Нажать на зеленую кнопку под названием Login |
 | **Фактический результат** | Во всех товарах, вместо исходных картинок, отображаются изображение собаки |
 | **Ожидаемый результат** | Изображения товаров соответствуют названию |
-| **Дополнения** | <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/45bdc9bf-1d42-4112-83b4-742377d6bf0e" /> |
+| **Скриншот** | <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/45bdc9bf-1d42-4112-83b4-742377d6bf0e" /> |
 | **Примечание** | Проблема воспроизводится только с пользователем problem_user. С пользователем standard_user всё работает корректно. |
